@@ -12,6 +12,7 @@ Steps:
 - [x] Use that saved text to display that text in pop up  
 - [x] Add a new command in the editor context menu to open google.com with query parameter (e.g. https://www.google.com/search?q=sfd )
 ([link](https://github.com/Microsoft/vscode/issues/11848#issuecomment-246197007))  
-- [x] Provide the selected (and saved if needed) text to this google search  
+- [x] Provide the selected (and saved if needed) text to this google search
+- [x] install locally by creating a vsix file - ([link](https://code.visualstudio.com/api/working-with-extensions/publishing-extension))  
 - [ ] Publish the extension for reuse  
 - [ ] Add setting to add prefixed search queries like site:stackoverflow  
